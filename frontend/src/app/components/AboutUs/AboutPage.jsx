@@ -118,7 +118,7 @@ export default function AboutPage() {
         </div>
 
         <h2 className="text-2xl font-semibold text-center mt-12">
-          ✨ Haboo — "Home, with Soul"
+          ✨ Haboo — Home, with Soul
         </h2>
       </div>
     </main>

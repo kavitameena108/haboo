@@ -12,7 +12,7 @@ export default function Testimonials() {
         <div className="grid md:grid-cols-3 gap-6">
           {reviews.map((review, i) => (
             <div key={i} className="bg-white p-6 shadow-md rounded-lg text-center">
-              <p className="italic">"{review.text}"</p>
+              <p className="italic">{review.text}</p>
               <h4 className="mt-4 font-bold">{review.name}</h4>
             </div>
           ))}
